@@ -36,12 +36,11 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">The files shared are not to be misused these are for sharing an idea how the end product should look like</a></li>
-        <li><a href="#installation">NaN</a></li>
+        <li><a href="#prerequisites">prerequisites: The files shared are not to be misused these are for sharing an idea how the end product should look like</a></li>
+        <li><a href="#installation">installation: NaN</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Abish4i</a></li>
-    <li><a href="#acknowledgements">https://www.coursera.org/learn/python-for-data-visualization</a></li>
+    <li><a href="https://www.coursera.org/learn/python-for-data-visualization">Course on Coursera and Edx</a></li>
   </ol>
 </details>
 <!-- ABOUT THE Repo -->
@@ -59,7 +58,7 @@
 
 <!-- CONTRIBUTING -->
 ## Contributing
-If any suggestions or improvements - I'll be happy to incorporate them and if there are error let me know or need any extra help regarding content distributed
+If any suggestions or improvements - I'll be happy to incorporate them and if there are error let me know or need any extra help regarding content distributed.
 <!-- CONTACT -->
 ## Contact
 
