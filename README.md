@@ -30,7 +30,7 @@
     <li>
       <a href="#about-the-capstone">About The Project</a>
       <ul>
-        <li><a href="#built-with-DASH">Built With</a></li>
+        <li><a href="#built-with-EXCEL/COGNOS">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -52,9 +52,8 @@
 
 ### Built With
 
-* [Python]()
-* [DASH]()
-* [HTML]()
+* [EXCEL]()
+* [COGNOS]()
 
 <!-- CONTRIBUTING -->
 ## Contributing
