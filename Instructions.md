@@ -17,7 +17,7 @@
     <a href="https://github.com/abish4i/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Abish4i/IBM-data-visualization-dashboards-excel-cognos">View Demo</a>
+    <a href="https://github.com/Abish4i/IBM-data-visualization-dashboards-excel-cognos">View code</a>
     ·
   </p>
 </p>
@@ -37,8 +37,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites: PYTHON">Prerequisites</a></li>
-        <li><a href="#installation: DASH PIP INSTALL">Installation</a></li>
+        <li><a href="#prerequisites">The files shared are not to be misused these are for sharing an idea how the end product should look like</a></li>
+        <li><a href="#installation">NaN</a></li>
       </ul>
     </li>
     <li><a href="#contact">Abish4i</a></li>
@@ -54,9 +54,9 @@
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [1](Python)
+* [2](DASH)
+* [3](HTML)
 
 
 
@@ -67,8 +67,8 @@ If any suggested I'll be happy to incorporate them
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/abish4i) - email
-
+Abhishek Sengar - [@twitter_handle](https://twitter.com/abish4i) - abish4198@gmail.com
+[linkedin-url]: https://linkedin.com/in/abish4i
 Project Link: [https://github.com/github_username/repo_name](https://github.com/abish4i/rr7)
 
 
@@ -77,6 +77,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## Acknowledgements
 
 * [IBM SKILLS NETWORK]()
-* [COURSERA]()
-* []()
-[linkedin-url]: https://linkedin.com/in/abish4i
+* [COURSERA](https://www.coursera.org/learn/python-for-data-visualization)
